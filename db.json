@@ -1,0 +1,24 @@
+{
+  "users": [
+    {
+      "email": "egon23@gmail.com",
+      "password": "$2a$10$Viuhy7woHXaIyQfq5v5CWexC0jhwevAxOyMBM.jHjPPbPc9DkWwj6",
+      "id": 1
+    },
+    {
+      "email": "ricky03senju@gmail.com",
+      "password": "$2a$10$k0Zw2I1B.A6GGn4eFretLu7I9Xo8WU3CBFo2eQs012.N0mJdS1BN2",
+      "id": 2
+    }
+  ],
+  "books": [
+    {
+      "id": 1,
+      "title": "Harry Potter"
+    },
+    {
+      "id": 2,
+      "title": "The Lord of The Ring"
+    }
+  ]
+}
